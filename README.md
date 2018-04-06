@@ -6,7 +6,7 @@ Law enforcement agencies in some countries offer compilations of statistics for 
 
 
 Using Socrata api we get 
-#Orlando data. 
+# Orlando data. 
 
 It contains below Crime data  
 
@@ -31,7 +31,7 @@ Weapons Offense         18
 
 
 
-#North Miami crime data
+# North Miami crime data
 
 Using Socrata api we get North Miami crime data. It contains below Crime data 
 
@@ -57,7 +57,7 @@ Theft of Vehicle        1
 
 Traffic                 1
 
- #Miami spring crime data
+ # Miami spring crime data
 
 Using Socrata api we get North Miami spring crime data. It contains below Crime data  
 

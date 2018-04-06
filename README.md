@@ -6,7 +6,7 @@ Law enforcement agencies in some countries offer compilations of statistics for 
 
 
 Using Socrata api we get 
-# Orlando data. 
+# Orlando crime data. 
 
 It contains below Crime data  
 

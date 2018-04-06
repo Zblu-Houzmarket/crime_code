@@ -9,18 +9,29 @@ Using Socrata api we get Orlando data. It contains below Crime data
 
 
 Assault                 43
+
 Breaking & Entering     74
+
 Drugs                   72
+
 Homicide                 1
+
 Property Crime          63
+
 Robbery                 36
+
 Theft                  514
+
 Theft of Vehicle        45
+
 Weapons Offense         18
 
 
+
 North Miami crime data
-Using Socrata api we get North Miami crime data. It contains below Crime data  
+
+Using Socrata api we get North Miami crime data. It contains below Crime data 
+
 
 Assault                12
 Breaking & Entering    14
